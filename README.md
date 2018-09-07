@@ -1,1 +1,2 @@
 # EasyAuctions
+Auction house helper
