@@ -1,0 +1,10 @@
+## Interface: 70100
+## Title: EasyAuctions
+## Notes: Quick AH Listings
+## Dependencies:
+## X-Curse-Packaged-Version: v1
+## X-Curse-Project-Name: EasyAuctions
+## X-Curse-Project-ID: EasyAuctions
+## X-Curse-Repository-ID: wow/EasyAuctions/mainline
+EasyAuctions.lua
+EasyAuctions.xml
